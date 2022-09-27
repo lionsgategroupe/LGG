@@ -1,6 +1,6 @@
 <div align="center">
   <a href="/">
-    <img src="https://user-images.githubusercontent.com/1711854/192616966-6e06241f-5e9d-47a6-9caa-6c77529cfd72.png" width=330 alt="lionsgate-logo-REV">
+    <img src="https://user-images.githubusercontent.com/1711854/192651057-cd8253bf-d342-48ac-bfa9-d7ef94dee2a4.png" width=400 alt="lionsgate-logo-reverse">
   </a>
   <br/>
   <br/>
