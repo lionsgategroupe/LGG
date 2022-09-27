@@ -3,6 +3,7 @@
     <img src="https://user-images.githubusercontent.com/1711854/192616966-6e06241f-5e9d-47a6-9caa-6c77529cfd72.png" width=330 alt="lionsgate-logo-REV">
   </a>
   <br/>
+  <br/>
   <p align="center">
       <strong>Lionsgate</strong>
     <br/>
