@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://user-images.githubusercontent.com/1711854/196483215-515c77d7-fc4c-4311-bdc1-2419ef0ad9dc.png">
+    <img src="https://user-images.githubusercontent.com/1711854/196490628-0362a9b4-c604-443c-b74f-ced568196065.png">
   </a>
   <br/>
   <br/>
