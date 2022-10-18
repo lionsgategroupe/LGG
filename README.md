@@ -10,7 +10,7 @@
 <h3 align="center">Lionsgate</h3>
 
 <p align="center">
-  AI . Data . Analysis . Strategy
+  AI · Data · Analysis · Strategy
   <br/>
   <a href="https://github.com/lionsgategrp">Explore Lionsgate GitHub</a>
   <br/>
