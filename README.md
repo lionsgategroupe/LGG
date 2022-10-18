@@ -7,12 +7,12 @@
   <br/>
 </p>
 
-<h3 align="center">Lionsgate</h3>
+<h3 align="center">Lions Gate Group</h3>
 
 <p align="center">
-  AI · Data · Analysis · Strategy
+  Stronger analysis, producing better outcomes
   <br/>
-  <a href="https://github.com/lionsgategrp">Explore Lionsgate GitHub</a>
+  <a href="https://github.com/lionsgategrp">Explore Lions Gate GitHub</a>
   <br/>
   <br/>
   <a href=#>Website</a>
