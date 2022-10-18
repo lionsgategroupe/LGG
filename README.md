@@ -6,7 +6,7 @@
   <p align="center">
     AI . Data . Analysis . Strategy
   <br>
-    <a href="https://github.com/lionsgategrp">Explore Lionsgate Group GitHub</a>
+    <a href="https://github.com/lionsgategrp">Explore GitHub</a>
   <br/>
   <br/>
     <a href="https://github.com/lionsgategrp" alt="GitHub lionsgategrp (Lionsgate Group)">GitHub</a>
