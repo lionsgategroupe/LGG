@@ -2,7 +2,7 @@
   <a href="/">
     <img src="https://user-images.githubusercontent.com/1711854/192651057-cd8253bf-d342-48ac-bfa9-d7ef94dee2a4.png" width=350 alt="lionsgate-logo-reverse">
   </a>
-  <h3 align="center">Lionsgate</h3>
+  <h3 align="center">Lionsgate Group</h3>
   <p align="center">
     AI . Data . Analysis . Strategy
   <br>
