@@ -4,7 +4,6 @@
   </a>
   <br/>
   <br/>
-  <br/>
 </p>
 
 <h3 align="center">Lions Gate Group</h3>
