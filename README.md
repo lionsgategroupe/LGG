@@ -6,12 +6,12 @@
   <br/>
 </p>
 
-<h3 align="center">Lions Gate Group</h3>
+<h3 align="center">LGG</h3>
 
 <p align="center">
   Stronger analysis, producing better outcomes
   <br/>
-  <a href="https://github.com/lionsgategrp">Explore Lions Gate GitHub</a>
+  <a href="https://github.com/lionsgategrp">Explore LGG GitHub</a>
   <br/>
   <br/>
   <a href=#>Website</a>
@@ -31,7 +31,7 @@
   <br/>
   <br/>
   <br/>
-    Copyright © 2022 Lions Gate Estate LLC. All rights reserved.
+    Copyright © 2022 Lions Gate Estate LLC d/b/a Lions Gate Group (LGG). All rights reserved.
   </p>
 </p>
 
