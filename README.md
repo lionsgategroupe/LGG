@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#>
-    <img src="https://user-images.githubusercontent.com/1711854/201430719-7118d260-6104-4170-b9ce-1ec97f2bdf89.png">
+    <img src="https://user-images.githubusercontent.com/1711854/201432791-abf0a2e0-137f-47f7-b56b-d1be83153fed.png">
   </a>
   <br/>
   <br/>
@@ -31,7 +31,7 @@
   <br/>
   <br/>
   <br/>
-    Copyright © 2022 Lions Gate Estate LLC d/b/a Lions Gate Group (LGG). All rights reserved.
+    Copyright © 2022 Lions Gate Estate LLC dba Lions Gate Group (LGG). All rights reserved.
   </p>
 </p>
 
