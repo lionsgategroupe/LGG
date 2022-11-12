@@ -14,7 +14,7 @@
   <a href="https://github.com/lionsgategrp">Explore LGG GitHub</a>
   <br/>
   <br/>
-  <a href=#>Website</a>
+  <a href="https://lionsgate.cc">Website</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/lionsgategrp">GitHub</a>
   &nbsp; · &nbsp;
