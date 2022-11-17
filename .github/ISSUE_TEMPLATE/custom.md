@@ -3,9 +3,11 @@ name: Custom issue template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: guylepage3
 
 ---
+
+> **Last updated**: Jan 20, 1969
 
 **Description**
 Please provide a short and descriptive example title
