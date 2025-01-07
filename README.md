@@ -2,7 +2,7 @@
   <div align="center">
     <h3>Lions Gate Groupe</h3>
     <p>
-      Better analysis, producing better outcomes.
+      Thoughtful decision making producing better outcomes.
     </p>
     <p>
       <a href="https://github.com/lionsgategroupe">Explore Lions Gate Groupe</a>
